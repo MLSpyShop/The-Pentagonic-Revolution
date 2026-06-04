@@ -98,7 +98,7 @@ This initiative utilizes established open-source intelligence frameworks:
 
 ## Independence
 
-This accountability initiative operates independently without authorization or authority from any government agency, institution, or corporate entity. The program is conducted in the public interest using only publicly available information and open-source intelligence methodologies.
+This accountability initiative operates independently without authorization or authority from any government agency or institution. The program is conducted in the public interest using only publicly available information and open-source intelligence methodologies.
 
 ## Core Values
 
