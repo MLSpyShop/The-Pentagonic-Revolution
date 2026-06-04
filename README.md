@@ -2,6 +2,8 @@
 
 **Open Source Intelligence (OSINT) Accountability Initiative | 2026**
 
+https://mlspyshop.github.io/The-Pentagonic-Revolution/
+
 ## Overview
 
 The Pentagonic Revolution is a comprehensive open-source accountability and transparency initiative conducted under OSINT frameworks. This project represents a systematic approach to organizational assessment, financial transparency, and strategic improvement using publicly available information and open-source intelligence methodologies.
