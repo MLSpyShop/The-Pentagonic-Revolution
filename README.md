@@ -135,8 +135,8 @@ The Pentagonic Revolution establishes a comprehensive open-source framework desi
 ## Learn More
 
 For more information about this initiative, visit:
-- marielandryspyshop.com
-- landryindustries.ca
+- https://www.marielandryspyshop.com
+- https://www.landryindustries.ca
 
 ---
 
